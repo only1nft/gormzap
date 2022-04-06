@@ -1,4 +1,4 @@
-module github.com/only1nft/gorm-zap
+module github.com/only1nft/gormzap
 
 go 1.18
 
